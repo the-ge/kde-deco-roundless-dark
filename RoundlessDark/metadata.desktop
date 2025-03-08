@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Roundless Dark
+Comment=Window decorations with no roundness, grey shadow for better discerning overlapping windows, and  blurred titlebar
+
+X-KDE-PluginInfo-Name=Aurorae-Roundless-Dark
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL v3
+X-KDE-PluginInfo-Author=the-ge
+X-KDE-PluginInfo-Email=i1704578400@tenita.eu
+X-KDE-PluginInfo-Website=https://github.com/the-ge/kde-deco-roundless-dark
+
+Type=Application
+X-KDE-PluginInfo-EnabledByDefault=true
