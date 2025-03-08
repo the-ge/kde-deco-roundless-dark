@@ -14,4 +14,8 @@ The second main reason I created these decorations. I like my KDE windows border
 
 Well, it looks kinda cool, but it is subtle enough to not make me want to read the text under the titlebar.
 
+## Note
+
+You probably already know this, but I'll say it anyway: while the screenshot below features all the available buttons, one can choose what buttons and in what order they appear, from `Settings > Color and Themes > Window Decorations`, the `Configure Titlebar Buttons` top button.
+
 ![Screenshot](https://github.com/the-ge/kde-deco-roundless-dark/blob/main/20250308_043544.png?raw=true)
